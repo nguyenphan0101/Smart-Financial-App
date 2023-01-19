@@ -1,2 +1,2 @@
-# Test
-Test github
+#Smart Financial App
+Simple Python code
